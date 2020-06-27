@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1 edicion en master branch
+=======
+1 edicion en login branch
+>>>>>>> login
